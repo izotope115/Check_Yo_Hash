@@ -6,15 +6,13 @@ function compare() {
 
     if (input1 && input2 != '') {
         history.push(input1, ' | ', input2);
-        $('#history').append('<br>', history);
 
             if (input1 != input2) {
-               $('.message').append('<p class="alert alert-danger"><strong>ERR</strong> Hash Keys <strong>DO NOT MATCH!</strong></p>');
-
+               $('.message').append('<p class="alert alert-danger"><strong>ERR</strong> Hash Keys <strong>DO NOT MATCH!<br> '+history.join(" ")+' </strong></p>');
             }
 
             else if (input1 === input2) {
-               $('.message').append('<p class="alert alert-success">Hash is Identical</p>');
+               $('.message').append('<p class="alert alert-success">Hash is Identical:<br> '+history.join(" ")+' </p>');
             }
     }
 
