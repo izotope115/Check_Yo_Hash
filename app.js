@@ -17,7 +17,7 @@ function compare() {
     }
 
     else {
-        $('.message').append('<p class="alert alert-warning wrap">Please Enter Your Has Keys</p>');
+        $('.message').append('<p class="alert alert-warning wrap">Please Enter Your Hash Keys</p>');
 
     }
 
