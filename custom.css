@@ -5,3 +5,7 @@
 .topMargin20 {
     margin-top:20px;
 }
+
+.wrap {
+    word-wrap: break-word;
+}
