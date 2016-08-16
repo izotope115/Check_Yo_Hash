@@ -8,4 +8,8 @@
 
 .wrap {
     word-wrap: break-word;
+    font-size: 20px;
+}
+span {
+    font-size: 14px;
 }

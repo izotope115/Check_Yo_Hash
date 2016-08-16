@@ -8,11 +8,11 @@ function compare() {
         history.push(input1, '<br><br>', input2);
 
             if (input1 != input2) {
-               $('.message').append('<p class="alert alert-danger wrap"><strong>ERR</strong> Hash Keys <strong>DO NOT MATCH!<br><br>'+history.join('')+' </strong></p>');
+               $('.message').append('<p class="alert alert-danger wrap"><strong>ERR</strong> Hash Keys <strong>DO NOT MATCH!<br><span>'+history.join('')+'</span> </strong></p>');
             }
 
             else if (input1 === input2) {
-               $('.message').append('<p class="alert alert-success wrap">Hash is Identical:<br><br> '+history.join('')+' </p>');
+               $('.message').append('<p class="alert alert-success wrap">Hash is Identical:<br><span>'+history.join('')+'</span></p>');
             }
     }
 
