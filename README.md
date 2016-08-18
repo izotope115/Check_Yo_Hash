@@ -5,7 +5,7 @@
 
 -->
 
-By [Gabe Khofri](https:www.gabrielkhofri.com).
+By [Gabe Khofri](https://www.gabrielkhofri.com).
 
 
 ## Description
