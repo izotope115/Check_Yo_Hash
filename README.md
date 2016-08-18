@@ -1,9 +1,4 @@
 # Check yo Hash Validator
-<!-- If you'd like to use a logo instead uncomment this code and remove the text above this line
-
-  ![Logo](URL to logo img file goes here)
-
--->
 
 By [Gabe Khofri](https://www.gabrielkhofri.com).
 
@@ -13,26 +8,14 @@ Validate file hashes/checksum values with this quick and easy online tool. For m
 
 ## Installation
 
-Fork this repo and simply run the index.html file in your browser. Everything is ran in the browser. No database, or any type of data storage. Cicking the clear button refreshes the web page and will 'clear' previouse results.
-
-## Usage
-
-Usage explanation goes here
-
-```erb
-<%= your_code_goes @here do |f| %>
-  <%= f.input :example %>
-  <%= f.input :example %>
-  <%= f.button :example %>
-<% end %>
-```
+Fork this repo and simply run the index.html file in your browser. Everything is ran in the browser. No database, or any type of data storage included. Clicking the clear button refreshes the web page and will 'clear' previous results.
 
 ### Known Issues
 
 If you discover any bugs, feel free to create an issue on GitHub fork and
 send us a pull request.
 
-[Issues List](Github Issues List URL goes here).
+[Issues List](https://github.com/izotope115/check_yo_hash/issues).
 
 ## Authors
 
