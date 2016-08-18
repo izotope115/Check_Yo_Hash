@@ -12,7 +12,7 @@ Fork this repo and simply run the index.html file in your browser. Everything is
 
 ### Known Issues/Feature Enhancements
 
-If you discover any bugs or envision a useful feature, feel free to create an issue/enhancement on here and fork. Then send me a pull request.
+If you discover any bugs or envision a useful feature, feel free to create an issue/enhancement here and fork. Then send me a pull request.
 
 [Issues List](https://github.com/izotope115/check_yo_hash/issues).
 
