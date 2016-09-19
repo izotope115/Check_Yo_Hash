@@ -6,6 +6,8 @@ By [Gabe Khofri](https://www.gabrielkhofri.com).
 ## Description
 Validate file hashes/checksum values with this quick and easy online tool. For more information on Hash-based message authentication code visit the WIKI: (https://en.wikipedia.org/wiki/Hash-based_message_authentication_code)
 
+DEMO (https://codepen.io/izotope115/pen/yaaEka)
+
 ## Installation
 
 Fork this repo and simply run the index.html file in your browser. Everything is ran in the browser. No database, or any type of data storage included. Clicking the clear button refreshes the web page and will 'clear' previous results.
