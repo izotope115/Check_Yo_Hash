@@ -4,7 +4,7 @@ By [Gabe Khofri](https://www.gabrielkhofri.com).
 
 
 ## Description
-Validate file hashes/checksum values with this quick and easy online tool. For more information on Hash-based message authentication code visit the [WIKI:](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code)
+Validate file hashes/checksum values with this quick and easy online tool. For more information on Hash-based message authentication code visit the [WIKI](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code)
 
 [DEMO](https://codepen.io/izotope115/pen/yaaEka)
 
