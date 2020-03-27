@@ -1,4 +1,4 @@
-# Check yo Hash Validator
+# Check Yo Hash Validator
 
 By [Gabe Khofri](https://www.gabrielkhofri.com).
 
